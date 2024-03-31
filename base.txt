@@ -6,7 +6,7 @@ aucun affichage à l'ecran:Probleme de carte graphique
 bips au demarrage:Probleme de carte graphique
 lenteur extreme:Probleme de disque dur
 disque dur emet des clics:Probleme de disque dur
-ecran clignote:aucun son:Probleme d'alimentation
+ecran clignote:aucun son
 ecran clignote:Probleme d'alimentation
 programmes se ferment inopinement:Probleme de memoire RAM
 ecrans bleus frequents:Probleme de memoire RAM

@@ -1,0 +1,17 @@
+ecran noir:Carte mere
+aucun bip au demarrage:Carte mere
+ordinateur surchauffe:Probleme de refroidissement
+ventilateur bruyant:Probleme de refroidissement
+aucun affichage à l'ecran:Probleme de carte graphique
+bips au demarrage:Probleme de carte graphique
+lenteur extreme:Probleme de disque dur
+disque dur emet des clics:Probleme de disque dur
+ecran clignote:aucun son
+ecran clignote:Probleme d'alimentation
+programmes se ferment inopinement:Probleme de memoire RAM
+ecrans bleus frequents:Probleme de memoire RAM
+souris non detectee:Probleme de peripheriques d'entree
+clavier ne fonctionne pas:Probleme de peripheriques d'entree
+connexion internet instable:Probleme de carte reseau
+pages web ne se chargent pas:Probleme de carte reseau
+ecron bleu:carte mere
